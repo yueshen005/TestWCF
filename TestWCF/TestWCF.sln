@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenchmarkTool", "BenchmarkTool\BenchmarkTool.csproj", "{66F98E56-B1E4-47F9-8A0D-77A67BB3CD43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFContract", "WCFContract\WCFContract.csproj", "{A704A4D1-C9F5-4A02-9021-5FAD6463E930}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServer", "WCFServer\WCFServer.csproj", "{8FB68BB0-6781-4688-9024-D21166109A22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFHost", "WCFHost\WCFHost.csproj", "{5ABC9BCB-BFC2-4512-BA11-9B986EEEF7F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFClient", "WCFClient\WCFClient.csproj", "{7ADCCBF0-5779-4E86-BA03-F74D3F19E747}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66F98E56-B1E4-47F9-8A0D-77A67BB3CD43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F98E56-B1E4-47F9-8A0D-77A67BB3CD43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F98E56-B1E4-47F9-8A0D-77A67BB3CD43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F98E56-B1E4-47F9-8A0D-77A67BB3CD43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A704A4D1-C9F5-4A02-9021-5FAD6463E930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A704A4D1-C9F5-4A02-9021-5FAD6463E930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A704A4D1-C9F5-4A02-9021-5FAD6463E930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A704A4D1-C9F5-4A02-9021-5FAD6463E930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FB68BB0-6781-4688-9024-D21166109A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB68BB0-6781-4688-9024-D21166109A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB68BB0-6781-4688-9024-D21166109A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB68BB0-6781-4688-9024-D21166109A22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ABC9BCB-BFC2-4512-BA11-9B986EEEF7F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ABC9BCB-BFC2-4512-BA11-9B986EEEF7F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ABC9BCB-BFC2-4512-BA11-9B986EEEF7F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ABC9BCB-BFC2-4512-BA11-9B986EEEF7F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ADCCBF0-5779-4E86-BA03-F74D3F19E747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ADCCBF0-5779-4E86-BA03-F74D3F19E747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ADCCBF0-5779-4E86-BA03-F74D3F19E747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ADCCBF0-5779-4E86-BA03-F74D3F19E747}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
